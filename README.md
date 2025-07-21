@@ -1,2 +1,2 @@
-# website-beruang-pintar-quiz
+# website-beruang-pintar
 web
